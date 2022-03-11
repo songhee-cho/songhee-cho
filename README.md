@@ -9,7 +9,7 @@
 
 - B.S of Electronic and Electrical Engineering in Ewha Womans University, Republic of Korea (2018.03 - 2022.08 (expected))
 
-**🤗 I’m currently interested in ...**
+**📝I’m currently interested in ...**
 
 - | Robot Vision | Object Detection | Sensor Fusion | Few-shot Learning | Radar Signal Processing | Multimodal Deep Learning |
 
@@ -19,11 +19,7 @@
 - Vision System of a Smart Farm Robot for Measuring Growth Information @ [Robot Vision Lab](https://kistrobot.vision/)
 
 
-**📝 I’m currently learning ...**
-
-- Embedded System | Object Detection (*YOLO series*)
-
-**🔥 Experience**
+**🤗 Experience**
 - *Undergraduate Researcher* @ [Robot Vision Lab](https://kistrobot.vision/), Korea Institute of Science and Technology (*Jul 2021 - Dec 2021*)
 - *Undergraduate Researcher* @ [Digital Signal Processing Lab](http://dspl.ewha.ac.kr/), Ewha Womans University (*Jul 2020 - Aug 2020*)
 - *Undergraduate Researcher* @ [Intelligent Radar System and Signal Processing Lab](https://iras.postech.ac.kr/), Pohang University of Science and Technology (*Jan 2022*)
