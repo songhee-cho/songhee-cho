@@ -7,7 +7,7 @@
 
 **📚 Education**
 
-- B.S of Electronic and Electrical Engineering in Ewha Womans University, Republic of Korea (*2018.03 - 2022.08 (expected)*)
+- B.S of Electronic and Electrical Engineering in Ewha Womans University, South Korea (*2018.03 - 2022.08 (expected)*)
 
 **📝I’m currently interested in ...**
 
