@@ -11,7 +11,7 @@
 
 **📝I’m currently interested in ...**
 
-- | Robot Vision | Object Detection | Sensor Fusion | Few-shot Learning | Radar Signal Processing | Multimodal Deep Learning |
+- | 3D Vision | Robot Vision | Object Detection | Sensor Fusion | Few-shot Learning | Radar Signal Processing | Multimodal Deep Learning |
 
 
 **💻 I’m currently working on ...**
