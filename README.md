@@ -9,7 +9,7 @@
 
 - B.S of Electronic and Electrical Engineering in Ewha Womans University, South Korea (*2018.03 - 2022.08 (expected)*)
 
-**📝I’m currently interested in ...**
+**📝 I’m currently interested in ...**
 
 - | Robot Vision | Object Detection | Sensor Fusion | Few-shot Learning | Radar Signal Processing | Multimodal Deep Learning |
 
