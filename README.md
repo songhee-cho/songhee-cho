@@ -1,6 +1,6 @@
 ### 🌳 Songhee Cho (@songhee-cho)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/songhee-cho-271828e/)](https://www.linkedin.com/in/songhee-cho-271828e/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/songhee-cho/)](https://www.linkedin.com/in/songhee-cho-271828e/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:songhee.cho.ee@gmail.com)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://songhee-cho.github.io/)](https://songhee-cho.github.io/)
 
