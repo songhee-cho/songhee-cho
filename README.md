@@ -7,11 +7,11 @@
 
 ### `About Me`
 
-Researcher at the [`Agency for Defense Development (ADD)`](https://www.add.re.kr).  
+Researcher @ [`Agency for Defense Development (ADD)`](https://www.add.re.kr/eps).  
 M.S. in Electrical and Electronics Engineering, [`Ewha Womans University`](https://www.ewha.ac.kr),  
-`Digital Signal Processing Lab` ([`DSPL`](http://dspl.ewha.ac.kr)) under `Prof. Jeongtae Kim`.  
+[`Digital Signal Processing Lab`](http://dspl.ewha.ac.kr) under `Prof. Jeongtae Kim`.  
 Former undergraduate researcher at [`KIST`](https://www.kist.re.kr), [`Robot Vision Lab`](https://kistrobot.vision/).
 
 ### `Research Interests`
-- Deep Learning for Sensor Data  
-- Multimodal Learning & Sensor Fusion (Radar, Vision, etc)  
+- `Deep Learning for Sensor Data`
+- `Multimodal Learning & Sensor Fusion (Radar, Vision, etc)` 
